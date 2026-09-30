@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Rural-Urban Differences in Material Hardship, Social Support, and Loneliness Across U.S. Counties: Associations with Cardiometabolic Health"
+authors:
+  - family-names: Mollard
+    given-names: Elizabeth
+type: software
+license: MIT
+date-released: 2026-09-30
+keywords:
+  - rural health
+  - loneliness
+  - social needs
+  - cardiometabolic health
+  - CDC PLACES
+  - Rural-Urban Continuum Codes

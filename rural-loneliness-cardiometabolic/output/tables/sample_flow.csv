@@ -1,0 +1,6 @@
+step,counties,states
+PLACES counties,3144,51
+Matched to RUCC 2023,3144,51
+With all 4 cardiometabolic measures,2956,49
+With all 6 social-needs measures,2299,40
+With ERS covariates (analytic sample),2289,39

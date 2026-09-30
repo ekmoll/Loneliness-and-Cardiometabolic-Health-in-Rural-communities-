@@ -1,0 +1,10 @@
+rucc,label,count,mean,median,std
+1,"Metro, >=1M",326,9.08,8.86,3.18
+2,"Metro, 250K-1M",263,9.83,9.84,3.77
+3,"Metro, <250K",278,10.65,10.33,4.08
+4,"Nonmetro, urban >=20K, adjacent",152,11.77,12.07,3.52
+5,"Nonmetro, urban >=20K, not adjacent",53,12.45,12.62,3.22
+6,"Nonmetro, urban 5K-20K, adjacent",270,12.27,12.19,4.2
+7,"Nonmetro, urban 5K-20K, not adjacent",178,13.45,13.48,4.77
+8,"Nonmetro, urban <5K, adjacent",349,11.97,11.48,6.25
+9,"Nonmetro, urban <5K, not adjacent",420,14.04,13.18,9.76
