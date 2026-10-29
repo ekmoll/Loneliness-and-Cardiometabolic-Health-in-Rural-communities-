@@ -42,7 +42,7 @@ not show causation or individual-level effects.
 ## The dataset
 
 [`data/analytic/county_analytic_dataset.csv`](data/analytic/county_analytic_dataset.csv) holds
-one row per county in the analytic sample (2,289 × 32): rurality, social-needs measures,
+one row per county in the analytic sample (2,289 × 33): rurality, social-needs measures,
 cardiometabolic conditions, behavioral risk factors, socioeconomic covariates, social
 associations, and the derived burden and hardship indices. Every variable is defined in
 [`data/analytic/CODEBOOK.md`](data/analytic/CODEBOOK.md).
@@ -69,6 +69,11 @@ make all        # download sources, then run every analysis step
 If an automatic download fails, save the file by hand as described in
 [`data/README.md`](data/README.md), then run `make analysis`. Without `make`, run the scripts in
 `src/` in numeric order from inside `src/`.
+
+To rerun the analyses (steps 3–6) from the shared dataset without downloading the sources,
+copy `data/analytic/county_analytic_dataset.csv` to `data/processed/analytic_county.csv`, then
+run `make descriptives models strengths behavior`. Results match the published tables up to rounding,
+because the shared file stores values to four significant figures.
 
 | Step | Script | Output |
 |---|---|---|
