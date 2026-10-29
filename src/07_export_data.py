@@ -32,6 +32,7 @@ DESCRIPTIONS = {
     "transportation_difficulty": ("Lack of reliable transportation in past 12 months, age-adjusted", PLACES, "% adults"),
     "lack_social_support": ("Lack of social and emotional support, age-adjusted", PLACES, "% adults"),
     "loneliness": ("Feelings of loneliness, age-adjusted", PLACES, "% adults"),
+    "loneliness_alt": ("Feelings of loneliness, crude prevalence (used in the sensitivity analysis)", PLACES, "% adults"),
     "hypertension": ("High blood pressure, age-adjusted", PLACES, "% adults"),
     "diabetes": ("Diagnosed diabetes, age-adjusted", PLACES, "% adults"),
     "coronary_heart_disease": ("Coronary heart disease, age-adjusted", PLACES, "% adults"),
