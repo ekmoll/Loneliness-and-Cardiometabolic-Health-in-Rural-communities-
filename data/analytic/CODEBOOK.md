@@ -19,6 +19,7 @@
 | `transportation_difficulty` | Lack of reliable transportation in past 12 months, age-adjusted | CDC PLACES County Data, 2025 release (BRFSS 2023; short sleep BRFSS 2022) | % adults | 2289 | 9.45 | 4.10 | 26.80 |
 | `lack_social_support` | Lack of social and emotional support, age-adjusted | CDC PLACES County Data, 2025 release (BRFSS 2023; short sleep BRFSS 2022) | % adults | 2289 | 24.29 | 16.70 | 37.80 |
 | `loneliness` | Feelings of loneliness, age-adjusted | CDC PLACES County Data, 2025 release (BRFSS 2023; short sleep BRFSS 2022) | % adults | 2289 | 34.20 | 27.30 | 43.80 |
+| `loneliness_alt` | Feelings of loneliness, crude prevalence (used in the sensitivity analysis) | CDC PLACES County Data, 2025 release (BRFSS 2023; short sleep BRFSS 2022) | % adults | 2289 | 32.83 | 25.80 | 43.40 |
 | `hypertension` | High blood pressure, age-adjusted | CDC PLACES County Data, 2025 release (BRFSS 2023; short sleep BRFSS 2022) | % adults | 2289 | 33.91 | 23.90 | 53.10 |
 | `diabetes` | Diagnosed diabetes, age-adjusted | CDC PLACES County Data, 2025 release (BRFSS 2023; short sleep BRFSS 2022) | % adults | 2289 | 11.13 | 6.70 | 21.30 |
 | `coronary_heart_disease` | Coronary heart disease, age-adjusted | CDC PLACES County Data, 2025 release (BRFSS 2023; short sleep BRFSS 2022) | % adults | 2289 | 5.99 | 3.80 | 10.10 |
