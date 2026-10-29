@@ -59,8 +59,8 @@ associations, and the derived burden and hardship indices. Every variable is def
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<your-username>/rural-loneliness-cardiometabolic.git
-cd rural-loneliness-cardiometabolic
+git clone https://github.com/libekh/Loneliness-and-Cardiometabolic-Health-in-Rural-communities-.git
+cd Loneliness-and-Cardiometabolic-Health-in-Rural-communities-
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 make all        # download sources, then run every analysis step
@@ -122,7 +122,7 @@ This writes random data in the same file layouts to check that the pipeline runs
 ## Data availability statement
 
 > The county-level analytic dataset and all analysis code are publicly available at
-> https://github.com/<your-username>/rural-loneliness-cardiometabolic. The dataset was
+> https://github.com/libekh/Loneliness-and-Cardiometabolic-Health-in-Rural-communities-. The dataset was
 > constructed from publicly available sources: CDC PLACES (2025 release), USDA Economic
 > Research Service Rural-Urban Continuum Codes (2023) and County-Level Data Sets, and County
 > Health Rankings & Roadmaps (2025).
